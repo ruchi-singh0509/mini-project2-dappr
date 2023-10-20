@@ -19,14 +19,15 @@
 
 #dappr {
     height: 45px;
-    width: 175px;
+    width: 160px;
+    padding-right: 70px;
 }
 
 .navigation-content {
     display: flex;
     justify-content: space-between;
-    padding: 0;
-    color: white;
+    padding-left:5px;
+    color:white;
     font-size: 30px;
     font-family: sans-serif;
 }
@@ -34,7 +35,7 @@
 .navigation-content1 {
     display: flex;
     justify-content: space-between;
-    padding-left: 10px;
+    padding-left: 5px;
     color: white;
     font-size: 30px;
     font-family: sans-serif;
@@ -58,8 +59,7 @@
 }
 
 .hamburger-icon {
-    padding-right: 5px;
-    padding-left: 70px; ;
+    padding-right: 50px;
     width: 35px;
 
 }
